@@ -1,12 +1,12 @@
 export const siteConfig = {
-  name: "JollyBlog",
-  url: "https://example.com",
+  name: "yourbihari",
+  url: "https://yourbihari-blog.vercel.app/",
   description: "Nextjs 14 blog using velite, tailwind and shadcn",
-  author: "JollyCoding",
+  author: "yourbihari",
   links: {
-    twitter: "https://twitter.com/jollyshopland",
-    github: "https://github.com/jolbol1",
-    personalSite: "https://jamesshopland.com",
+    twitter: "https://twitter.com/yourbihari",
+    github: "https://github.com/yourbihari",
+    personalSite: "https://hackwithakki.vercel.app",
   },
 };
 
